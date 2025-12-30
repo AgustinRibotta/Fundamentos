@@ -18,8 +18,6 @@ Limit to the fewest possible variables.
 
 A set of ordered and defined interactions to solve a problem or perform a specific task.
 
----
-
 ## Tools
 
 ### - Flowcharts
