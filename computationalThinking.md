@@ -27,16 +27,21 @@ Representation of the problem that allows visualizing the possible paths and how
 ### - Pseudocode
         
 - Basic structures
-    - Variables
-    - Data types (primitive vs. complex)
-    - Operators (arithmetic, logical, relational)
-    - Conditionals (if, else, switch)
-    - Loops (for, while, do-while)
+    
+    - Variables -> The value stored in memory location and the identifier (name) used to reference that location.
 
-- Data Structures
-    - Arrays
-    - List
-    - Stacks
-    - Queues
-    - Maps / Dictionaries
+    - Data types (primitive vs. complex) -> represent simple value - Structure tht goup multiple values or data.
+
+    - Operators (arithmetic, logical, relational) -> +, -, *, /, % - and , or , not - ==, !=, <, >, <=, >=
+
+    - Conditionals -> if, else, switch
+    
+    - Loops -> for, while, do-while
+
+- Data Structures (complex)
+    - Arrays -> []
+    - List -> []
+    - Stacks -> LIFO (Last in, First out) [] 
+    - Queues -> FIFO (Firs in, First out) []
+    - Maps / Dictionaries -> {key: value}
         
